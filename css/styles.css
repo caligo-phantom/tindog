@@ -10,8 +10,8 @@ body::before {
 }
 
 @media (min-width: 768px) {
-  .news-input {
-    width: 50%;
+  .center{
+    text-align:center !important;
   }
 }
 
