@@ -1,3 +1,3 @@
 # tindog
 Made with :heart: Siddharth Mittal <br>
-Hosted @ https://caligo-phantom.github.io/tindog/
+Hosted @ https://sidmittal32.github.io/tindog/
